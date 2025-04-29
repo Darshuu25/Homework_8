@@ -12,4 +12,4 @@ For this assignment I want you to watch the following two videos and create your
 1.  Put the screenshot of your image in your Docker account here.
 
 
-![alt text](<Screenshot 2025-04-28 221056.png>)
+![alt text](image.png)
